@@ -3,6 +3,7 @@ import './Row.css';
 import axios from './axios';
 import Youtube from 'react-youtube';
 
+
 const base_url = "https://image.tmdb.org/t/p/original/"
 
 const Row = ({ title, fetchURL, isLargeRow }) => {

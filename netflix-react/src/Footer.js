@@ -10,7 +10,7 @@ function Footer() {
             <ul className="footer__top">
                 <li><a href="https://www.facebook.com/chris.sison.587" target="_blank" rel="noreferrer"><FacebookIcon className="footer__icon" /></a></li>
                 <li><a href="https://www.instagram.com/5ison/?hl=en" target="_blank" rel="noreferrer"><InstagramIcon className="footer__icon" /></a></li>
-                <li><a href="www.linkedin.com/in/chris-alexander-86b8a5194" target="_blank" rel="noreferrer"><LinkedInIcon className="footer__icon" /></a></li>
+                <li><a href="https://www.linkedin.com/in/chris-alexander-86b8a5194" target="_blank" rel="noreferrer"><LinkedInIcon className="footer__icon" /></a></li>
             </ul>
 
             <div className="footer__middle">
